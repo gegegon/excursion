@@ -27,7 +27,7 @@ body {
      color: white;
  }
  .link {
-     padding-top: 50px;
+     padding-top: 80px;
      text-decoration: underline;
      font-size: 16px;
      color: aquamarine;
@@ -35,5 +35,40 @@ body {
  }
  video {
      object-fit: contain;
-     padding-top: 50px;
+     padding-top: 20px;
  }
+ .title2 {
+     padding-top: 80px;
+     font-size: 42px;
+     font-weight: 300;
+     color: white;
+ }
+ .title_low {
+     padding-top: 50px;
+     font-size: 21px;
+     color: gray;
+ }
+ .camp {
+     padding-top: 20px;
+ }
+ .phone {
+     padding-top: 30px;
+ }
+ .title3 {
+     padding-top: 50px;
+     font-size: 42px;
+     font-weight: 300;
+     color: white;
+ }
+.link2 {
+    padding-top: 50px;
+    text-decoration: underline;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
+.copyright {
+    padding: 20px 20px 20px 0px;
+    text-align: right;
+    color: gray;
+}

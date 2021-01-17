@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1331f1eb-a6f2-4727-8a4d-4c120ab25584" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
     </list>
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610910218640</updated>
-      <workItem from="1610910220201" duration="4804000" />
+      <workItem from="1610910220201" duration="7664000" />
     </task>
     <task id="LOCAL-00001" summary="add directories resources/css and files - index.html and style.css">
       <created>1610910742129</created>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610913810886</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed structure files, add &lt;video&gt;">
+      <created>1610916509467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610916509467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,12 +103,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add directories resources/css and files - index.html and style.css" />
     <MESSAGE value="wrote 2 classes .title1 and .link" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote 2 classes .title1 and .link" />
+    <MESSAGE value="Changed structure files, add &lt;video&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed structure files, add &lt;video&gt;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610913819425">
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610916519318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610913819425" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610916519318" />
   </component>
 </project>

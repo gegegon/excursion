@@ -17,6 +17,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 body {
      font-family: Verdana, sans-serif;
      background-color: black;
+    text-align: center;
  }
  .title1 {
      padding-top: 50px;
@@ -31,4 +32,8 @@ body {
      font-size: 16px;
      color: aquamarine;
      text-align: center;
+ }
+ video {
+     object-fit: contain;
+     padding-top: 50px;
  }
